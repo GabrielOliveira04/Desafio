@@ -1,0 +1,41 @@
+Título: Verificador de Sequência de Fibonacci em Python
+
+Descrição: Este código em Python verifica se um número inteiro pertence à sequência de Fibonacci. Ele utiliza um algoritmo eficiente para determinar se o número está na sequência, exibindo verdadeiro ou falso como resultado. Escrito em Python, é uma ferramenta útil para verificar números Fibonacci em aplicações que envolvem sequências numéricas ou cálculos matemáticos.
+
+Entrada: Um número inteiro para verificar se pertence à sequência de Fibonacci.
+
+Saída: Verdadeiro ou falso, indicando se o número pertence à sequência de Fibonacci.
+
+Tecnologias: Python.
+
+
+
+    Título: Analisador de Faturamento Diário em Python
+
+Descrição: Este código em Python lê dados de faturamento diário de um arquivo JSON e realiza análises, como identificar o menor faturamento diário, o maior valor de faturamento em um dia do mês, a média mensal de faturamento e o número de dias acima da média. É útil para análises financeiras e de negócios.
+
+Entrada: Dados de faturamento diário em um arquivo JSON.
+
+Saída: Menor faturamento diário, maior valor de faturamento em um dia do mês, média mensal de faturamento e número de dias acima da média.
+
+Tecnologias: Python, JSON.
+
+    Título: Percentual de Faturamento por Estado em Python
+
+Descrição: Este código em Python calcula o percentual de faturamento por estado com base em dados pré-definidos de faturamento. É útil para análises de desempenho financeiro por estado em um contexto regional ou nacional.
+
+Entrada: Dados de faturamento por estado em um dicionário pré-definido.
+
+Saída: Percentual de representação de faturamento por estado.
+
+Tecnologias: Python.
+
+    Título: Inversor de String em Python
+
+Descrição: Este código em Python inverte uma string digitada pelo usuário. É útil para aplicações que requerem a manipulação de strings, como processamento de texto e criptografia.
+
+Entrada: Uma string digitada pelo usuário.
+
+Saída: A string invertida.
+
+Tecnologias: Python.
